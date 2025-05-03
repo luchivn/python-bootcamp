@@ -5,4 +5,4 @@ This project simulates a coffee machine that serves drinks based on available in
 I created two versions of the project:
 
 - **coffee-machine.py**: written using procedural programming
-- **coffee-machine-oop**: rewritten using Object-Oriented Programming principles
+- 'coffee-machine-oop': rewritten using Object-Oriented Programming principles
